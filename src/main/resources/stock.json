@@ -1,0 +1,64 @@
+{
+  "productStock": [
+    [
+      {
+        "code": 101,
+        "name": "Coke",
+        "price": 3,
+        "size": "0,5L"
+      },
+      6
+    ],
+    [
+      {
+        "code": 102,
+        "name": "Fanta",
+        "price": 3,
+        "size": "0,5L"
+      },
+      7
+    ],
+    [
+      {
+        "code": 103,
+        "name": "Water",
+        "price": 2,
+        "size": "1L"
+      },
+      0
+    ],
+    [
+      {
+        "code": 104,
+        "name": "Chocolate",
+        "price": 5,
+        "size": "100g"
+      },
+      4
+    ]
+  ],
+  "coinStock": [
+    [
+      {
+        "code": 201,
+        "value": 1
+      },
+      5
+    ],
+    [
+      {
+        "code": 202,
+        "value": 5
+      },
+      2
+    ],
+    [
+      {
+        "code": 203,
+        "value": 10
+      },
+      1
+    ]
+  ],
+  "currency": "EUR"
+}
